@@ -1,46 +1,49 @@
-# Hi, I'm Alex Chen 👋
+# 👋 I'm Dion — AI-Native Builder & Founder
 
-### Senior Python Developer · Brisbane, Australia
+I ship production software by directing AI in English. Five products live — three SaMD/healthcare platforms and two agent frameworks — designed, evaluated, and shipped without hand-writing the implementation code.
 
-I build scalable backend systems, automation pipelines, and data-driven applications.
-
----
-
-#### 🔧 Tech Stack
-
-**Languages:** Python · SQL · Bash · JavaScript  
-**Frameworks:** FastAPI · Django · Flask · LangChain  
-**Data:** Pandas · NumPy · scikit-learn · PyTorch  
-**Infrastructure:** Docker · AWS · PostgreSQL · Redis · Kafka · Celery  
-**Tools:** Git · GitHub Actions · Terraform · Jupyter
+The code is AI-generated. The architecture, the domain knowledge, and the judgment are mine.
 
 ---
 
-#### 📊 GitHub Stats
+### What I've built
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elegantartist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elegantartist&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
+| Product | What it is |
+|---|---|
+| **KGC** | TGA Class I clinical decision-support platform — registered medical device (ARTG DA-2026-02415-1) |
+| **Ro1** | Multi-agent AI employee platform — persistent memory, tool orchestration, autonomous task execution |
+| **Hermes** | Skills-based autonomous agent runtime — 60+ skills, multi-model routing, native macOS integration |
+| **NuMe / Rezilia** | Health & resilience platforms built on the same agent foundations |
 
----
-
-#### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[Portfolio](https://github.com/elegantartist/portfolio)** | Developer portfolio website | HTML · CSS · JS |
+→ Architecture deep-dives and regulatory evidence: **[elegantartist/portfolio](https://github.com/elegantartist/portfolio)**
 
 ---
 
-#### 📫 Get In Touch
+### Background
 
-- 🌐 [Portfolio](https://github.com/elegantartist/portfolio)
-- 💼 [LinkedIn](https://linkedin.com)
-- ✉️ alex.chen@devmail.io
+- **20 years in pharma** — Pfizer (10 yrs), Viatris (10 yrs)
+- **Founder, Anthrocyt AI** — KGC, NuMe, Rezilia, Ro1, Hermes
+- **Co-founder, Stryder Defence** — marketed GNC technology to AU & US defence; delivered Royal Australian Navy contract (PO 3000510118)
+- **Bachelor of Nursing Science** (QUT) · **Master of International Business** (SCU)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elegantartist&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
+### How I work
+
+1. **Design the architecture** — system diagrams, data flows, component interfaces
+2. **Direct AI implementation** — prompt-driven development
+3. **Evaluate ruthlessly** — task success, latency, cost, failure modes
+4. **Ship and iterate** — deploy to AWS, monitor, refine
+
+I've used this approach to ship five production products, including a TGA-registered medical device.
+
+---
+
+### Get in touch
+
+- ✉️ dion.collins@anthrocytai.com
+- 📍 Tweed Heads, NSW, Australia — open to SF/NYC relocation
+
+---
+
+> *"The code is a commodity. The thinking isn't."*

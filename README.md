@@ -10,7 +10,7 @@ The code is AI-generated. The architecture, the domain knowledge, and the judgme
 
 | Product | What it is |
 |---|---|
-| **KGC** | TGA Class I clinical decision-support platform — registered medical device (ARTG DA-2026-02415-1) |
+| **KGC** | TGA Class I clinical decision-support platform — ARTG DA-2026-02415-1 submitted, under review (decision due 19 June 2026) |
 | **Ro1** | Multi-agent AI employee platform — persistent memory, tool orchestration, autonomous task execution |
 | **Hermes** | Skills-based autonomous agent runtime — 60+ skills, multi-model routing, native macOS integration |
 | **NuMe / Rezilia** | Health & resilience platforms built on the same agent foundations |
@@ -35,7 +35,7 @@ The code is AI-generated. The architecture, the domain knowledge, and the judgme
 3. **Evaluate ruthlessly** — task success, latency, cost, failure modes
 4. **Ship and iterate** — deploy to AWS, monitor, refine
 
-I've used this approach to ship five production products, including a TGA-registered medical device.
+I've used this approach to ship five production products, including a TGA-submitted medical device.
 
 ---
 
